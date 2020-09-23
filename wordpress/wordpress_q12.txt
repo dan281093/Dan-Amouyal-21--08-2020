@@ -1,0 +1,7 @@
+The permalink is the full URL you see – and use – for any given post, page or other pieces of content on your site.
+It could include your domain name (www.example.com) plus what’s called a slug, the piece of the URL that comes after the domain name. This might include a date or a category or anything you want.
+
+The permalink should be SEO-friendly 
+it could be https://www.example.com/category/post-name or https://www.example.com/21/08/2020/post-name or https://example.com/post-name.
+
+By default, WordPress use something like this https://example.com/?p=101, but it is not SEO-friendly

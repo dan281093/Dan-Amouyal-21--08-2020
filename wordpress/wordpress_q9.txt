@@ -1,0 +1,5 @@
+The script tag should be inserted within the <head> element of the header.php file
+The wp_add_inline_script function should be used to tell WordPress to load the JavaScript
+file inline.
+The wp_enqueue_script function should be used to tell WordPress to place the script
+reference into the <head> element or before </body>.

@@ -1,0 +1,3 @@
+Database table prefix.
+Database password.
+Admin’s username for the WordPress panel.

@@ -1,0 +1,2 @@
+The file_get_contents() reads a file into a string.
+This function is the preferred way to read the contents of a file into a string. It will use memory mapping techniques, if this is supported by the server, to enhance performance.
