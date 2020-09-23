@@ -1,11 +1,3 @@
 WordPress actions are specifically made for themes.
-
-
 Actions can be executed at any point throughout the WordPress page lifecycle.
-You can only use predefined WordPress actions.
-
-
 The function add_action() is used to hook a function to an action.
-
-
-Actions with lower priorities are executed earlier than those with higher priorities.
